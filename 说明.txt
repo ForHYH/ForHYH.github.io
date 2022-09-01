@@ -1,0 +1,2 @@
+主页动态名字在js文件夹talk.js修改
+在一起日期在js文件夹lovetime.js修改
